@@ -1,13 +1,26 @@
-.cd-body-color{
+.banner .banner-text h5 {
+    font-size: 3.5vw;
+}
+
+.banner .banner-text p {
+    font-size: 1.5vw;
+}
+
+.darkened-img img {
+    filter: brightness(50%);
+}
+
+
+.cd-body-color {
     background-color: #F4FAFD;
 }
 
-.effect{
+.effect {
     background-color: white;
     color: #0275d8;
 }
 
-.effect:hover{
+.effect:hover {
     background-color: #0275d8;
     color: white;
 }
