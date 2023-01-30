@@ -25,6 +25,7 @@
 }
 
 .effect:hover {
-    background-color: #0275d8;
-    color: white;
+    transform: scale(1.2);
+    background-color: white;
+    color: #0275d8;
 }
