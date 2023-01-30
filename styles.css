@@ -29,3 +29,9 @@
     background-color: white;
     color: #0275d8;
 }
+
+@media screen and (max-width:768px) {
+    .company{
+        display: none;
+    }
+}
